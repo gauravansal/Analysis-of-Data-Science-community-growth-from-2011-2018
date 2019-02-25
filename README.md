@@ -36,7 +36,7 @@ For this project, I was interestested in using Stack Overflow survey data from 2
 
 ## 4. Results <a name="results"></a>
 * [Project Notebook: Analysis of Data Science community growth from 2011-2018](https://nbviewer.jupyter.org/github/gauravansal/Analysis-of-Data-Science-community-growth-from-2011-2018/blob/master/Analysis%20of%20Data%20Science%20community%20growth%20from%202011-2018.ipynb) 
-* [Blog Post: Analysis of Data Science community growth from 2011-2018](https://medium.com/@ansal.gaurav/where-do-data-science-experts-exists-c74d308c4693)
+* [Blog Post: Where do Data Science experts exists?](https://medium.com/@ansal.gaurav/where-do-data-science-experts-exists-c74d308c4693)
 
 ## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the following link available [here](https://insights.stackoverflow.com/survey).
