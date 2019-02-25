@@ -35,7 +35,7 @@ For this project, I was interestested in using Stack Overflow survey data from 2
 * Analysis of Data Science community growth from 2011-2018.ipynb: Jupyter Notebook used for all the analysis and to showcase work related to the above questions. Markdown cells were used for explanation and to assist in walking through the thought process.
 
 ## 4. Results <a name="results"></a>
-* [Project Notebook: Analysis of Data Science community growth from 2011-2018]() 
+* [Project Notebook: Analysis of Data Science community growth from 2011-2018](https://nbviewer.jupyter.org/github/gauravansal/Analysis-of-Data-Science-community-growth-from-2011-2018/blob/master/Analysis%20of%20Data%20Science%20community%20growth%20from%202011-2018.ipynb) 
 * [Blog Post: ]()
 
 ## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
