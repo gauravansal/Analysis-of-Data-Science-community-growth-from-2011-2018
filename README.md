@@ -30,7 +30,7 @@ For this project, I was interestested in using Stack Overflow survey data from 2
 > 7. What is the trend in Data Science community growth in various different sized companies over the years?
 
 ## 3. File Descriptions <a name="files"></a>  
-* data: Folder contains data files of StackOverflow developer survey data, following name conventions of "YYYY_survey_data.csv"
+* data: Folder contains data files of StackOverflow developer survey data, following name conventions of "YYYY_survey_data.zip" which contains .csv files with name conventions of ""YYYY_survey_data.csv"
 * schema: Folder contains description of the columns of the survey data files for years 2017-2018, following name conventions of "YYYY_survey_schema.csv"
 * Analysis of Data Science community growth from 2011-2018.ipynb: Jupyter Notebook used for all the analysis and to showcase work related to the above questions. Markdown cells were used for explanation and to assist in walking through the thought process.
 
